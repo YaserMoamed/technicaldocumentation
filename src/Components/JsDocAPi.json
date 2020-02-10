@@ -1,0 +1,17 @@
+[{
+   "title" : "Introduction",
+    "description" : "JavaScript is a cross-platform, object-oriented scripting language."
+},
+{
+  "title" : "JavaScript and Java",
+  "description"  : "JavaScript and Java are similar in some ways but fundamentally different in some others"
+},
+{    
+"title" : "Hello world",
+ "description" : "To get started with writing JavaScript, open the Scratchpad and write your " 
+  },
+  {
+"title" : "Variables",
+"description": "You use variables as symbolic names for values in your application. The names of variables, called identifiers, conform to certain rules."
+  }
+]
